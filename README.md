@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Exercicios do Curso React para Iniciantes (Hora de Codar)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
